@@ -1,0 +1,36 @@
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntitiyFrameworkUrunTakibi.exe.config
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntitiyFrameworkUrunTakibi.exe
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntitiyFrameworkUrunTakibi.pdb
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntityFramework.dll
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntityFramework.xml
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.csprojAssemblyReference.cache
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.Form1.resources
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.Properties.Resources.resources
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.csproj.GenerateResource.cache
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.csproj.CoreCompileInputs.cache
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.csproj.CopyComplete
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.exe
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.pdb
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.FrmAnaForm.resources
+C:\Users\onggu\source\repos\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.FrmUrun.resources
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntitiyFrameworkUrunTakibi.exe.config
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntitiyFrameworkUrunTakibi.exe
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntitiyFrameworkUrunTakibi.pdb
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntityFramework.dll
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntityFramework.xml
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.csprojAssemblyReference.cache
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.Form1.resources
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.FrmAnaForm.resources
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.FrmUrun.resources
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.Properties.Resources.resources
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.csproj.GenerateResource.cache
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.csproj.CoreCompileInputs.cache
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.csproj.CopyComplete
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.exe
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.pdb
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.FrmIstatistik.resources
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\EntitiyFrameworkUrunTakibi\EntitiyFrameworkUrunTakibi\obj\Debug\EntitiyFrameworkUrunTakibi.FrmGiris.resources
